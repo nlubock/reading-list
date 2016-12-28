@@ -1,5 +1,5 @@
 Odalisque (Quicksilver Book 3); Neil Stephenson; 2016/11/14 - TBD
-The Billion Dollar Molecule; Barry Werth; 2016/11/14 - TBD
+The Billion Dollar Molecule; Barry Werth; 2016/11/14 - 2016/12/27
 High Output Management; Andy Grove; 2016/9/27 - 2016/11/14
 King of the Vagabonds (Quicksilver Book 2); Neil Stephenson; 2016/8/30 - 2016/9/26
 Quicksilver (Quicksilver Book 1); Neil Stephenson; 2016/7/27 - 2016/8/22
@@ -11,7 +11,7 @@ Getting to Yes; Roger Fisher and William Ury; 2016/3/16 - 2016/4/12
 Lolita; Vladimir Nabokov; 2016/2/17 - 2016/3/15
 The Inner Game of Tennis; W. Timothy Gallwey; 2016/1/17 - 2016/2/14
 Fooled by Randomness; Nassim Nicholas Taleb; 2016/1/1 - 2016/1/17
-The Martian; Andy Weir; 2015/12
+The Martian; Andy Weir; 2015/12 - 2015/12
 Kafka on the Shore; Haruki Murakami; 2015/11 - 2015/12
 Anathem; Neil Stephenson; 2015/8 - 2015/11
 Some Remarks; Neil Stephenson; 2015/7 - TBD
